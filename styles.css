@@ -1,0 +1,31 @@
+body {
+    text-align:center;
+    background-color:#999900;
+}
+h1 {
+    font-family: 'Major Mono Display', monospace;
+    color:#4d0000;
+    background-color: #D0E3FB;
+}
+img {
+    height:550px;
+    width:550px;
+}
+p{
+     background-color: #FC7307;
+}
+.fun {
+     background-color: pink;
+}
+.movie {
+     background-color: grey;
+}
+.music {
+     background-color: #B8AA14;
+}
+.work  {
+     background-color: #E8D4F7;
+}
+.color  {
+     background-color: #FB9902;
+}
